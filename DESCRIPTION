@@ -1,0 +1,13 @@
+Package: shiny.exploracao.coorte
+Title: Exploracao das tabelas da Coorte
+Version: 0.0.0.9000
+Authors@R: person('Mikael', 'Coletto', email = 'mikael.coletto.eng@gmail.com', role = c('cre', 'aut'))
+Description: Pacote criado para explorar dados da Coorte já pré-processados. Shiny para exploracação, MongoDB para base de dados.
+License: MIT + file LICENSE
+Imports: 
+    config (>= 0.3.1),
+    golem (>= 0.3.1),
+    shiny (>= 1.7.0)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.1.1
