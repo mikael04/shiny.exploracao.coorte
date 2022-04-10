@@ -20,11 +20,11 @@
 ## 
 golem::fill_desc(
   pkg_name = "shiny.exploracao.coorte", # The Name of the package containing the App 
-  pkg_title = "PKG_TITLE", # The Title of the package containing the App 
-  pkg_description = "PKG_DESC.", # The Description of the package containing the App 
-  author_first_name = "AUTHOR_FIRST", # Your First Name
-  author_last_name = "AUTHOR_LAST", # Your Last Name
-  author_email = "AUTHOR@MAIL.COM", # Your Email
+  pkg_title = "Exploracao das tabelas da Coorte", # The Title of the package containing the App 
+  pkg_description = "Pacote criado para explorar dados da Coorte já pré-processados. Shiny para exploracação, MongoDB para base de dados.", # The Description of the package containing the App 
+  author_first_name = "Mikael", # Your First Name
+  author_last_name = "Coletto", # Your Last Name
+  author_email = "mikael.coletto.eng@gmail.com", # Your Email
   repo_url = NULL # The URL of the GitHub Repo (optional) 
 )     
 
